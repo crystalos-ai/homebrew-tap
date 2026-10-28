@@ -1,0 +1,17 @@
+{
+  "app_source": "c9d7a4e7c636048f4a775849789c2742fd2dca3b",
+  "bundle_sha256": "7081682199bbfa86b9e8eec1d1648f2b01d0d34814b26f0b60209b51d8b1c862",
+  "channel": "stable",
+  "files": {
+    "Casks/crystal-desktop.rb": "744f545c369f27e6c577c159e1ad2d71197a73bc209e0834387fbff47bdaecb6",
+    "README.md": "325364b7d90d41b70f40bff2dfe30b79e56bc011a283e3618b8f72c215d2e0ea",
+    "install.sh": "9de415cadbac3b34c1fcab69021322429252423d61126902c08b05604928acfd"
+  },
+  "package_sha256": "f8f8ebdf88dc45e11fe2b9dd4ad0321636ff39ee48977cb0740d49a0a15cf04e",
+  "package_size": 67991469,
+  "plan_sha256": "b64be1fc2414986ef15d834bde3aa1e90a8244eb41818dd4013948d10019d7d0",
+  "schema_version": 1,
+  "source_main": "c9d7a4e7c636048f4a775849789c2742fd2dca3b",
+  "tag": "desktop-stable-1.1648.3",
+  "version": "1.1648.3"
+}
